@@ -1,4 +1,5 @@
-### Hi there 👋
+I'm new
+and I want to make something
 
 <!--
 **FireRuin/fireruin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
